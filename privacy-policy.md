@@ -1,14 +1,14 @@
-# Privacybeleid QuikNova Finance
+﻿# Privacybeleid Welvio
 
 **Versie:** 1.0  
-**Ingangsdatum:** [DATUM INVULLEN VOOR LANCERING]  
+**Ingangsdatum:** 6 juni 2026  
 **Verantwoordelijke:** QuikNova, bredewold9@hotmail.com
 
 ---
 
 ## 1. Wie zijn wij?
 
-QuikNova Finance is een mobiele applicatie ontwikkeld en aangeboden door QuikNova ("wij", "ons"). Voor vragen over dit privacybeleid kunt u contact opnemen via **bredewold9@hotmail.com**.
+Welvio is een mobiele applicatie ontwikkeld en aangeboden door QuikNova ("wij", "ons"). Voor vragen over dit privacybeleid kunt u contact opnemen via **bredewold9@hotmail.com**.
 
 ---
 
@@ -16,7 +16,7 @@ QuikNova Finance is een mobiele applicatie ontwikkeld en aangeboden door QuikNov
 
 ### 2a. Gegevens die u zelf invoert (lokale opslag)
 
-QuikNova Finance slaat de volgende gegevens **uitsluitend lokaal op uw apparaat** op, via de beveiligde opslagmechanismen van iOS en Android:
+Welvio slaat de volgende gegevens **uitsluitend lokaal op uw apparaat** op, via de beveiligde opslagmechanismen van iOS en Android:
 
 - Financiële gegevens (vermogenscategorieën, waarden, kasstroomposten, voortgangspunten)
 - App-instellingen (valuta, vermogensdoel, thema, herinneringsinstellingen)
@@ -103,13 +103,13 @@ Financiële gegevens worden opgeslagen via de beveiligde sandbox-opslag van iOS 
 
 ## 9. Financieel advies disclaimer
 
-QuikNova Finance is een persoonlijk financieel hulpmiddel. **De app biedt geen financieel advies.** Neem geen financiële beslissingen uitsluitend op basis van de berekeningen en inzichten in deze app. Raadpleeg bij twijfel een gecertificeerd financieel adviseur.
+Welvio is een persoonlijk financieel hulpmiddel. **De app biedt geen financieel advies.** Neem geen financiële beslissingen uitsluitend op basis van de berekeningen en inzichten in deze app. Raadpleeg bij twijfel een gecertificeerd financieel adviseur.
 
 ---
 
 ## 10. Minderjarigen
 
-QuikNova Finance is niet gericht op personen onder de 18 jaar. Wij verzamelen niet bewust gegevens van minderjarigen.
+Welvio is niet gericht op personen onder de 18 jaar. Wij verzamelen niet bewust gegevens van minderjarigen.
 
 ---
 

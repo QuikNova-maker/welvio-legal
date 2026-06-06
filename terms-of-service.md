@@ -1,20 +1,20 @@
-# Gebruiksvoorwaarden QuikNova Finance
+﻿# Gebruiksvoorwaarden Welvio
 
 **Versie:** 1.0  
-**Ingangsdatum:** [DATUM INVULLEN VOOR LANCERING]  
+**Ingangsdatum:** 6 juni 2026  
 **Aanbieder:** QuikNova, bredewold9@hotmail.com
 
 ---
 
 ## 1. Acceptatie van de voorwaarden
 
-Door QuikNova Finance te installeren of te gebruiken, verklaart u akkoord te gaan met deze gebruiksvoorwaarden ("Voorwaarden"). Bent u het niet eens met deze Voorwaarden, gebruik de app dan niet.
+Door Welvio te installeren of te gebruiken, verklaart u akkoord te gaan met deze gebruiksvoorwaarden ("Voorwaarden"). Bent u het niet eens met deze Voorwaarden, gebruik de app dan niet.
 
 ---
 
 ## 2. Beschrijving van de dienst
 
-QuikNova Finance is een mobiele applicatie voor het bijhouden van persoonlijk vermogen, kasstromen en financiële voortgang. De app biedt een gratis basisversie en een betaald Pro-abonnement.
+Welvio is een mobiele applicatie voor het bijhouden van persoonlijk vermogen, kasstromen en financiële voortgang. De app biedt een gratis basisversie en een betaald Pro-abonnement.
 
 **De app biedt uitdrukkelijk geen financieel advies.** Alle berekeningen en inzichten zijn indicatief en dienen slechts als persoonlijk overzicht. QuikNova is niet aansprakelijk voor financiële beslissingen die op basis van de app worden genomen.
 
@@ -45,8 +45,8 @@ Betalingen verlopen uitsluitend via **Apple App Store** of **Google Play Store**
 ### 3e. Opzegging
 
 U kunt uw abonnement te allen tijde opzeggen via:
-- **iOS:** Apparaatinstellingen → Apple ID → Abonnementen → QuikNova Finance
-- **Android:** Google Play Store → Account → Abonnementen → QuikNova Finance
+- **iOS:** Apparaatinstellingen → Apple ID → Abonnementen → Welvio
+- **Android:** Google Play Store → Account → Abonnementen → Welvio
 
 Na opzegging behoudt u Pro-toegang tot het einde van de betaalde periode.
 
