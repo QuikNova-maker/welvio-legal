@@ -2,7 +2,7 @@
 
 **Versie:** 1.0  
 **Ingangsdatum:** 6 juni 2026  
-**Aanbieder:** QuikNova, bredewold9@hotmail.com
+**Aanbieder:** QuikNova, quiknova@outlook.com
 
 ---
 
@@ -129,7 +129,7 @@ Voor gebruikers die de app via de Apple App Store hebben gedownload, geldt aanvu
 ## 13. Contact
 
 **QuikNova**  
-E-mail: bredewold9@hotmail.com  
+E-mail: quiknova@outlook.com  
 Land: Nederland
 
 ---

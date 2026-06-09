@@ -2,13 +2,13 @@
 
 **Versie:** 1.0  
 **Ingangsdatum:** 6 juni 2026  
-**Verantwoordelijke:** QuikNova, bredewold9@hotmail.com
+**Verantwoordelijke:** QuikNova, quiknova@outlook.com
 
 ---
 
 ## 1. Wie zijn wij?
 
-Welvio is een mobiele applicatie ontwikkeld en aangeboden door QuikNova ("wij", "ons"). Voor vragen over dit privacybeleid kunt u contact opnemen via **bredewold9@hotmail.com**.
+Welvio is een mobiele applicatie ontwikkeld en aangeboden door QuikNova ("wij", "ons"). Voor vragen over dit privacybeleid kunt u contact opnemen via **quiknova@outlook.com**.
 
 ---
 
@@ -91,7 +91,7 @@ Als betrokkene hebt u de volgende rechten:
 - **Recht op beperking** (art. 18 AVG): Van toepassing voor zover wij gegevens verwerken.
 - **Recht van bezwaar** (art. 21 AVG): U kunt pushnotificaties te allen tijde uitschakelen via de apparaatinstellingen.
 
-Voor het uitoefenen van uw rechten of bij klachten kunt u contact opnemen via **bredewold9@hotmail.com**. U heeft ook het recht een klacht in te dienen bij de Autoriteit Persoonsgegevens (autoriteitpersoonsgegevens.nl).
+Voor het uitoefenen van uw rechten of bij klachten kunt u contact opnemen via **quiknova@outlook.com**. U heeft ook het recht een klacht in te dienen bij de Autoriteit Persoonsgegevens (autoriteitpersoonsgegevens.nl).
 
 ---
 
@@ -122,7 +122,7 @@ Bij wezenlijke wijzigingen informeren wij u via een melding in de app. De ingang
 ## 12. Contact
 
 **QuikNova**  
-E-mail: bredewold9@hotmail.com  
+E-mail: quiknova@outlook.com  
 Land: Nederland  
 
 ---
