@@ -1,135 +1,132 @@
-# Privacy Policy — Welvio
+# Datenschutzerklärung Welvio
 
-**Version:** 1.2
-**Effective date:** 2 July 2026
-**Data controller:** QuikNova, quiknova@outlook.com
-
----
-
-## 1. Who we are
-
-Welvio is a personal finance app developed and offered by QuikNova ("we", "us", "our"). For questions about this privacy policy, contact us at **quiknova@outlook.com**.
+**Version:** 1.1  
+**Gültig ab:** 2. Juli 2026  
+**Verantwortlicher:** QuikNova, quiknova@outlook.com
 
 ---
 
-## 2. What data do we process?
+## 1. Wer wir sind
 
-### 2a. Data you enter yourself (local storage only)
-
-Welvio stores the following data **exclusively on your device**, using the secure storage mechanisms provided by iOS and Android:
-
-- Financial data (asset categories, values, cash flow items, progress snapshots, deposits)
-- App settings (currency, financial goal, theme, notification preferences)
-- Pro/trial status and trial start date
-
-**This data is never transmitted to our servers or any third-party server.** We have no access to your financial data.
-
-### 2b. Push notifications (optional)
-
-If you enable monthly reminders, Apple (iOS) or Google (Android) process a notification token on their servers to deliver the notification. This token contains no financial information. You can withdraw this permission at any time via your device settings.
-
-### 2c. In-app purchases and subscriptions
-
-Payments for a Pro subscription are processed exclusively by **Apple App Store** or **Google Play Store** as payment processors. We do not receive full payment details (such as card numbers). Apple and Google process transaction data in accordance with their own privacy policies.
-
-We do not use any additional third-party payment or subscription management service at this time.
-
-### 2d. Data we do NOT process
-
-- Name, email address, or other contact details
-- Location data
-- Usage analytics, behavioural tracking, or advertising identifiers
-- Cookies (not applicable to a native mobile app)
-
-We do not intentionally integrate any analytics, crash reporting, or tracking SDK in the app. The underlying React Native and Expo frameworks may process minimal anonymous technical diagnostics for framework stability purposes. This data is not linked to your financial information and is governed by their respective privacy policies (reactnative.dev, expo.dev/privacy).
+Welvio ist eine mobile Anwendung, die von QuikNova ("wir", "uns") entwickelt und angeboten wird. Bei Fragen zu dieser Datenschutzerklärung kontaktieren Sie uns unter **quiknova@outlook.com**.
 
 ---
 
-## 3. Legal basis for processing (GDPR)
+## 2. Welche Daten verarbeiten wir?
 
-| Processing activity | Legal basis (GDPR Art. 6) |
-|---------------------|---------------------------|
-| Local storage of financial data | Performance of a contract (Art. 6(1)(b)) |
-| Push notifications | Consent (Art. 6(1)(a)) |
-| In-app purchase processing by Apple/Google | Performance of a contract (Art. 6(1)(b)) |
+### 2a. Von Ihnen selbst eingegebene Daten (lokale Speicherung)
 
----
+Welvio speichert die folgenden Daten **ausschließlich lokal auf Ihrem Gerät**, über die sicheren Speichermechanismen von iOS und Android:
 
-## 4. How long do we retain your data?
+- Finanzdaten (Vermögenskategorien, Werte, Cashflow-Posten, Fortschrittspunkte, Einlagen)
+- App-Einstellungen (Währung, Vermögensziel, Design, Erinnerungseinstellungen)
+- Pro- und Teststatus sowie das Startdatum der Testphase
 
-Your financial data is retained on your device until you:
-- Uninstall the app, or
-- Use the "Reset data" function in the app settings.
+**Diese Daten werden zu keinem Zeitpunkt an unsere Server oder Server Dritter übermittelt.** Wir haben keinen Zugriff auf Ihre Finanzdaten.
 
-Transaction records held by Apple or Google are retained according to their respective data retention policies.
+### 2b. Push-Benachrichtigungen (optional)
 
----
+Wenn Sie die monatliche Erinnerung aktivieren, verarbeiten Apple (iOS) oder Google (Android) ein Benachrichtigungs-Token auf ihren Servern, um die Benachrichtigung zuzustellen. Dieses Token enthält keine Finanzinformationen. Sie können diese Berechtigung jederzeit über die Geräteeinstellungen widerrufen.
 
-## 5. Do we share your data with third parties?
+### 2c. In-App-Käufe und Abonnements
 
-We do not share your financial data with any third party. We do not sell data.
+Beim Abschluss eines Pro-Abonnements oder eines Kaufs werden Zahlungen ausschließlich vom **Apple App Store** oder **Google Play Store** als Zahlungsverantwortliche verarbeitet. Wir erhalten von ihnen keine vollständigen Zahlungsdaten (wie Kartennummern). Wir nutzen **keinen externen Zahlungs- oder Abonnementverwaltungsdienst**; Abonnements werden direkt über den App Store oder Google Play verwaltet, gemäß deren eigenen Datenschutzrichtlinien.
 
-The following parties process limited data as part of the service infrastructure:
+### 2d. Daten, die wir NICHT verarbeiten
 
-| Party | Purpose | Privacy policy |
-|-------|---------|----------------|
-| Apple Inc. | App Store, IAP, push notifications | apple.com/privacy |
-| Google LLC | Play Store, IAP, push notifications | policies.google.com |
+- Name, E-Mail-Adresse oder sonstige Kontaktdaten
+- Standortdaten
+- Nutzungsanalysen oder Tracking
+- Cookies (bei einer nativen mobilen App nicht anwendbar)
+
+Wir integrieren bewusst keine Analyse-, Absturzberichts- oder Tracking-SDKs in die App.
 
 ---
 
-## 6. International transfers
+## 3. Auf welcher Rechtsgrundlage verarbeiten wir Ihre Daten?
 
-Apple and Google are based in the United States. Data transfers take place on the basis of Standard Contractual Clauses (SCCs) under GDPR Article 46. Please consult their respective privacy policies for details.
-
----
-
-## 7. Your rights under the GDPR
-
-As a data subject, you have the following rights:
-
-- **Right of access** (Art. 15): Use the built-in backup function to export and view all your locally stored data.
-- **Right to rectification** (Art. 16): Edit your data at any time within the app.
-- **Right to erasure** (Art. 17): Use "Reset data" in settings to delete all data, or uninstall the app.
-- **Right to data portability** (Art. 20): Use the built-in backup function to export all your data as a portable file, free of charge. A CSV export is additionally available in the Pro version.
-- **Right to restriction** (Art. 18): Applicable to the extent we process your data.
-- **Right to object** (Art. 21): You can disable push notifications at any time via device settings.
-
-To exercise your rights or to submit a complaint, contact us at **quiknova@outlook.com**. You also have the right to lodge a complaint with the Dutch Data Protection Authority (*Autoriteit Persoonsgegevens*, autoriteitpersoonsgegevens.nl).
+| Verarbeitung | Rechtsgrundlage (DSGVO Art. 6) |
+|-----------|--------------------------|
+| Lokale Speicherung von Finanzdaten | Vertragserfüllung (Art. 6 Abs. 1 lit. b) |
+| Push-Benachrichtigungen | Einwilligung (Art. 6 Abs. 1 lit. a) |
+| In-App-Käufe über Apple / Google | Vertragserfüllung (Art. 6 Abs. 1 lit. b) |
 
 ---
 
-## 8. Security
+## 4. Wie lange bewahren wir Ihre Daten auf?
 
-Financial data is stored in the secure sandbox storage of iOS and Android (AsyncStorage). We recommend securing your device with a PIN, fingerprint, or Face ID to protect your data.
+Ihre Finanzdaten werden auf Ihrem Gerät gespeichert, bis Sie:
+- die App deinstallieren oder
+- die Funktion "Daten zurücksetzen" in den App-Einstellungen verwenden.
 
----
-
-## 9. Financial disclaimer
-
-Welvio is a personal financial tracking tool. **The app does not provide financial advice.** The savings rate, wealth projections, and financial insights shown in the app are statistical calculations based solely on data you have entered yourself. They are not personalised advice within the meaning of the Dutch Financial Supervision Act (*Wet op het financieel toezicht*, Wft). QuikNova does not hold a Wft licence. Do not make financial decisions based solely on information shown in this app. If in doubt, consult a qualified and licensed financial adviser.
+Transaktionsdaten bei Apple oder Google werden gemäß deren jeweiligen Aufbewahrungsrichtlinien gespeichert.
 
 ---
 
-## 10. Minors
+## 5. Geben wir Ihre Daten an Dritte weiter?
 
-Welvio is not directed at persons under the age of 18. We do not knowingly collect data from minors.
+Wir geben Ihre Finanzdaten **nicht** an Dritte weiter. Wir verkaufen keine Daten.
 
----
+Folgende Parteien verarbeiten begrenzte Daten im Rahmen der Dienstleistung:
 
-## 11. Changes to this policy
-
-We will notify you of material changes via an in-app notification. The effective date at the top of this document indicates the most recent version. Continued use of the app after the effective date constitutes acceptance of the revised policy.
-
----
-
-## 12. Contact
-
-**QuikNova**
-Email: quiknova@outlook.com
-Country: Netherlands
-KvK: 98663208
+| Partei | Zweck | Datenschutz |
+|--------|------|---------------|
+| Apple Inc. | App Store, In-App-Käufe, Benachrichtigungen | apple.com/privacy |
+| Google LLC | Play Store, In-App-Käufe, Benachrichtigungen | policies.google.com |
 
 ---
 
-*This privacy policy is drafted in accordance with the General Data Protection Regulation (GDPR, Regulation (EU) 2016/679) and the Dutch GDPR Implementation Act (UAVG).*
+## 6. Übermittlung außerhalb der EU
+
+Apple und Google haben ihren Sitz in den Vereinigten Staaten. Die Datenübermittlung erfolgt auf Grundlage der Standardvertragsklauseln (SCC) gemäß Art. 46 DSGVO. Einzelheiten entnehmen Sie bitte deren jeweiligen Datenschutzrichtlinien.
+
+---
+
+## 7. Ihre Rechte nach der DSGVO
+
+Als betroffene Person haben Sie die folgenden Rechte:
+
+- **Auskunftsrecht** (Art. 15 DSGVO): Nutzen Sie die Backup-Funktion in der App, um alle Ihre Daten zu exportieren und einzusehen.
+- **Recht auf Berichtigung** (Art. 16 DSGVO): Sie können Ihre Daten jederzeit in der App anpassen.
+- **Recht auf Löschung** (Art. 17 DSGVO): Nutzen Sie "Daten zurücksetzen" in den Einstellungen, um alle Daten zu löschen, oder deinstallieren Sie die App.
+- **Recht auf Datenübertragbarkeit** (Art. 20 DSGVO): Nutzen Sie die Backup-Funktion in der App, um alle Ihre Daten kostenlos als übertragbare Datei zu exportieren. Ein CSV-Export ist zusätzlich in der Pro-Version verfügbar.
+- **Recht auf Einschränkung** (Art. 18 DSGVO): Anwendbar, soweit wir Daten verarbeiten.
+- **Widerspruchsrecht** (Art. 21 DSGVO): Sie können Push-Benachrichtigungen jederzeit über die Geräteeinstellungen deaktivieren.
+
+Zur Ausübung Ihrer Rechte oder bei Beschwerden kontaktieren Sie uns unter **quiknova@outlook.com**. Sie haben außerdem das Recht, eine Beschwerde bei einer Datenschutzaufsichtsbehörde einzureichen.
+
+---
+
+## 8. Sicherheit
+
+Finanzdaten werden im sicheren Sandbox-Speicher von iOS und Android (AsyncStorage) gespeichert. Wir verwenden keine zusätzliche Verschlüsselung über die Plattformsicherheit hinaus. Wir empfehlen, Ihr Gerät mit einer PIN, einem Fingerabdruck oder einer Gesichtserkennung zu schützen.
+
+---
+
+## 9. Haftungsausschluss Finanzberatung
+
+Welvio ist ein persönliches Finanz-Tool. **Die App bietet keine Finanzberatung.** Die Berechnungen und Erkenntnisse in der App sind statistische Berechnungen, die ausschließlich auf den von Ihnen selbst eingegebenen Daten beruhen. Treffen Sie keine finanziellen Entscheidungen allein auf Grundlage der App. Wenden Sie sich im Zweifel an einen qualifizierten Finanzberater.
+
+---
+
+## 10. Minderjährige
+
+Welvio richtet sich nicht an Personen unter 18 Jahren. Wir erheben nicht wissentlich Daten von Minderjährigen.
+
+---
+
+## 11. Änderungen dieser Datenschutzerklärung
+
+Bei wesentlichen Änderungen informieren wir Sie über eine Mitteilung in der App. Das Datum "Gültig ab" oben in diesem Dokument gibt die aktuellste Version an. Die fortgesetzte Nutzung nach diesem Datum gilt als Annahme der geänderten Erklärung.
+
+---
+
+## 12. Kontakt
+
+**QuikNova**  
+E-Mail: quiknova@outlook.com  
+Land: Niederlande  
+
+---
+
+*Diese Datenschutzerklärung wurde in Übereinstimmung mit der Datenschutz-Grundverordnung (DSGVO, Verordnung (EU) 2016/679) erstellt.*
