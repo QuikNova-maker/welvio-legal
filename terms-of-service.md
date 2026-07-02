@@ -1,7 +1,7 @@
-﻿# Gebruiksvoorwaarden Welvio
+# Gebruiksvoorwaarden Welvio
 
-**Versie:** 1.0  
-**Ingangsdatum:** 6 juni 2026  
+**Versie:** 1.1  
+**Ingangsdatum:** 2 juli 2026  
 **Aanbieder:** QuikNova, quiknova@outlook.com
 
 ---
@@ -24,23 +24,26 @@ Welvio is een mobiele applicatie voor het bijhouden van persoonlijk vermogen, ka
 
 ### 3a. Gratis versie
 
-De gratis versie biedt toegang tot basisfunctionaliteiten met bepaalde limieten (maximaal 3 categorieën, beperkte inzichten). Gebruik van de gratis versie is kosteloos en onbeperkt in tijd.
+De gratis versie biedt toegang tot basisfunctionaliteiten met bepaalde limieten (maximaal 4 categorieën, met beperkte inzichten en historie). Gebruik van de gratis versie is kosteloos en onbeperkt in tijd.
 
 ### 3b. Proefperiode (7 dagen gratis)
 
-Nieuwe gebruikers kunnen eenmalig een gratis proefperiode van 7 dagen voor Pro activeren. Na afloop van de proefperiode wordt de Pro-toegang automatisch beëindigd, tenzij u een abonnement afsluit. Er wordt geen betaling gevraagd tijdens de proefperiode.
+Nieuwe gebruikers kunnen in aanmerking komen voor een eenmalige gratis proefperiode van 7 dagen voor Pro, aangeboden als introductieaanbieding op het maandabonnement. Tijdens de proefperiode zijn alle Pro-functies beschikbaar.
 
-### 3c. Pro-abonnement
+De proefperiode gaat na afloop van de 7 dagen **automatisch over in een betaald maandabonnement en uw betaalmethode wordt belast**, tenzij u ten minste 24 uur vóór het einde van de proefperiode opzegt (zie §3e). Of u in aanmerking komt voor de proefperiode wordt bepaald door de App Store of Google Play, doorgaans één keer per Apple ID of Google-account.
 
-Het Pro-abonnement is beschikbaar als:
+### 3c. Pro-abonnement en lifetime
+
+Pro is beschikbaar als:
 - **Maandabonnement:** €2,99 per maand
 - **Jaarabonnement:** €24,99 per jaar
+- **Lifetime (eenmalig):** €49,99 — een eenmalige, niet-terugkerende aankoop die alle Pro-functies permanent ontgrendelt, zonder automatische verlenging of doorlopende kosten
 
 Prijzen zijn inclusief toepasselijke belastingen en kunnen per land variëren vanwege lokale btw-tarieven. De feitelijke afrekenprijs wordt weergegeven vóór aankoop in de App Store of Google Play.
 
 ### 3d. Betaling en verlenging
 
-Betalingen verlopen uitsluitend via **Apple App Store** of **Google Play Store**. Uw abonnement verlengt automatisch aan het einde van elke abonnementsperiode, tenzij u het ten minste 24 uur vóór het einde van de lopende periode opzegt.
+Betalingen verlopen uitsluitend via **Apple App Store** of **Google Play Store**. Een abonnement verlengt automatisch aan het einde van elke abonnementsperiode, tenzij u het ten minste 24 uur vóór het einde van de lopende periode opzegt. De eenmalige lifetime-aankoop kent geen verlenging.
 
 ### 3e. Opzegging
 
@@ -52,16 +55,16 @@ Na opzegging behoudt u Pro-toegang tot het einde van de betaalde periode.
 
 ### 3f. Herroepingsrecht (EU-consumenten)
 
-Op grond van de Richtlijn Consumentenrechten (2011/83/EU) heeft u als EU-consument het recht een digitale dienst binnen 14 dagen te herroepen. Door de proefperiode te starten of een abonnement af te sluiten en direct gebruik te maken van de Pro-functionaliteiten, verzoekt u ons de dienst onmiddellijk te leveren en doet u afstand van uw herroepingsrecht overeenkomstig artikel 16 sub m van de Richtlijn.
+Op grond van de Richtlijn Consumentenrechten (2011/83/EU) heeft u als EU-consument het recht een digitale dienst binnen 14 dagen te herroepen. Door de proefperiode te starten of een abonnement of aankoop af te sluiten en direct gebruik te maken van de Pro-functionaliteiten, verzoekt u ons de dienst onmiddellijk te leveren en doet u afstand van uw herroepingsrecht overeenkomstig artikel 16 sub m van de Richtlijn.
 
 ---
 
 ## 4. Gratis proefperiode — aanvullende voorwaarden
 
-- De proefperiode is beschikbaar voor nieuwe gebruikers die nog geen Pro-abonnement hebben gehad.
-- Per Apple ID of Google-account geldt één proefperiode.
+- De proefperiode is beschikbaar voor nieuwe gebruikers die nog niet eerder een Pro-proef of -abonnement hebben gehad.
+- Per Apple ID of Google-account geldt in de regel één proefperiode; de App Store of Google Play bepaalt of u in aanmerking komt.
 - Tijdens de proefperiode zijn alle Pro-functionaliteiten beschikbaar.
-- Na afloop van de proefperiode worden geen kosten in rekening gebracht; uw account keert terug naar de gratis versie.
+- De proefperiode gaat na afloop automatisch over in een betaald maandabonnement, tenzij u tijdig opzegt (zie §3b en §3e).
 
 ---
 
@@ -99,6 +102,7 @@ Voor zover wettelijk toegestaan:
 - QuikNova is **niet aansprakelijk** voor financiële verliezen of schade die voortvloeien uit het gebruik van, of vertrouwen op, de berekeningen en inzichten in de app.
 - De app wordt aangeboden "zoals ze is" ("as is") zonder garanties omtrent nauwkeurigheid, volledigheid of geschiktheid voor een specifiek doel.
 - Onze maximale aansprakelijkheid is beperkt tot het bedrag dat u in de 12 maanden voorafgaand aan de schade aan ons heeft betaald.
+- Niets in deze Voorwaarden beperkt aansprakelijkheid die op grond van dwingend recht niet kan worden uitgesloten.
 
 ---
 

@@ -1,7 +1,7 @@
-﻿# Privacybeleid Welvio
+# Privacybeleid Welvio
 
-**Versie:** 1.0  
-**Ingangsdatum:** 6 juni 2026  
+**Versie:** 1.1  
+**Ingangsdatum:** 2 juli 2026  
 **Verantwoordelijke:** QuikNova, quiknova@outlook.com
 
 ---
@@ -18,8 +18,9 @@ Welvio is een mobiele applicatie ontwikkeld en aangeboden door QuikNova ("wij", 
 
 Welvio slaat de volgende gegevens **uitsluitend lokaal op uw apparaat** op, via de beveiligde opslagmechanismen van iOS en Android:
 
-- Financiële gegevens (vermogenscategorieën, waarden, kasstroomposten, voortgangspunten)
+- Financiële gegevens (vermogenscategorieën, waarden, kasstroomposten, voortgangspunten, stortingen)
 - App-instellingen (valuta, vermogensdoel, thema, herinneringsinstellingen)
+- Pro- en proefstatus en de startdatum van de proefperiode
 
 **Deze gegevens worden op geen enkel moment naar onze servers of servers van derden gestuurd.** Wij hebben geen toegang tot uw financiële gegevens.
 
@@ -29,7 +30,7 @@ Als u de maandelijkse herinnering inschakelt, verwerken Apple (iOS) of Google (A
 
 ### 2c. In-app aankopen en abonnementen
 
-Bij het afsluiten van een Pro-abonnement worden betalingen verwerkt door **Apple App Store** of **Google Play Store** als betalingsverantwoordelijke. Wij ontvangen van hen geen volledige betalingsgegevens (zoals kaartnummers). Abonnementbeheer vindt plaats via **RevenueCat** (revenueCat.com), die beperkte transactiemetadata verwerkt conform hun eigen privacybeleid.
+Bij het afsluiten van een Pro-abonnement of het doen van een aankoop worden betalingen uitsluitend verwerkt door de **Apple App Store** of **Google Play Store** als betalingsverantwoordelijke. Wij ontvangen van hen geen volledige betalingsgegevens (zoals kaartnummers). Wij maken **geen gebruik van een externe betaal- of abonnementsbeheerdienst**; abonnementen worden rechtstreeks via de App Store of Google Play beheerd, conform hun eigen privacybeleid.
 
 ### 2d. Gegevens die wij NIET verwerken
 
@@ -37,6 +38,8 @@ Bij het afsluiten van een Pro-abonnement worden betalingen verwerkt door **Apple
 - Locatiegegevens
 - Gebruiksanalytics of tracking
 - Cookies (niet van toepassing op een mobiele app)
+
+Wij integreren bewust geen analytics-, crashrapportage- of tracking-SDK's in de app.
 
 ---
 
@@ -46,7 +49,7 @@ Bij het afsluiten van een Pro-abonnement worden betalingen verwerkt door **Apple
 |-----------|--------------------------|
 | Lokale opslag financiële data | Uitvoering van de overeenkomst (art. 6 lid 1 sub b) |
 | Pushnotificaties | Toestemming (art. 6 lid 1 sub a) |
-| Abonnementsbeheer via RevenueCat | Uitvoering van de overeenkomst (art. 6 lid 1 sub b) |
+| In-app aankopen via Apple / Google | Uitvoering van de overeenkomst (art. 6 lid 1 sub b) |
 
 ---
 
@@ -56,7 +59,7 @@ Uw financiële gegevens worden bewaard op uw apparaat totdat u:
 - De app verwijdert, of
 - De functie "Data resetten" gebruikt in de app-instellingen.
 
-Transactiegegevens bij RevenueCat worden bewaard conform hun retentiebeleid (raadpleeg revenueCat.com/privacy).
+Transactiegegevens bij Apple of Google worden bewaard conform hun respectieve retentiebeleid.
 
 ---
 
@@ -68,15 +71,14 @@ De volgende partijen verwerken beperkte gegevens als onderdeel van de dienstverl
 
 | Partij | Doel | Privacybeleid |
 |--------|------|---------------|
-| Apple Inc. | App Store, IAP, notificaties | apple.com/privacy |
-| Google LLC | Play Store, IAP, notificaties | policies.google.com |
-| RevenueCat Inc. | Abonnementsbeheer | revenuecat.com/privacy |
+| Apple Inc. | App Store, in-app aankopen, notificaties | apple.com/privacy |
+| Google LLC | Play Store, in-app aankopen, notificaties | policies.google.com |
 
 ---
 
 ## 6. Doorgifte buiten de EU
 
-Apple, Google en RevenueCat zijn gevestigd in de Verenigde Staten. Doorgifte van gegevens vindt plaats op basis van de Standard Contractual Clauses (SCC) conform AVG artikel 46. Raadpleeg hun respectieve privacybeleid voor details.
+Apple en Google zijn gevestigd in de Verenigde Staten. Doorgifte van gegevens vindt plaats op basis van de Standard Contractual Clauses (SCC) conform AVG artikel 46. Raadpleeg hun respectieve privacybeleid voor details.
 
 ---
 
@@ -84,10 +86,10 @@ Apple, Google en RevenueCat zijn gevestigd in de Verenigde Staten. Doorgifte van
 
 Als betrokkene hebt u de volgende rechten:
 
-- **Recht op inzage** (art. 15 AVG): U kunt via de exportfunctie in de app al uw gegevens inzien.
+- **Recht op inzage** (art. 15 AVG): Gebruik de back-upfunctie in de app om al uw gegevens te exporteren en in te zien.
 - **Recht op rectificatie** (art. 16 AVG): U kunt uw gegevens te allen tijde aanpassen in de app.
 - **Recht op gegevenswissing** (art. 17 AVG): Gebruik "Data resetten" in de instellingen om alle gegevens te verwijderen, of verwijder de app.
-- **Recht op dataportabiliteit** (art. 20 AVG): Gebruik de exportfunctie in de app om uw gegevens in CSV-formaat te exporteren.
+- **Recht op dataportabiliteit** (art. 20 AVG): Gebruik de back-upfunctie in de app om al uw gegevens kosteloos als overdraagbaar bestand te exporteren. Een CSV-export is aanvullend beschikbaar in de Pro-versie.
 - **Recht op beperking** (art. 18 AVG): Van toepassing voor zover wij gegevens verwerken.
 - **Recht van bezwaar** (art. 21 AVG): U kunt pushnotificaties te allen tijde uitschakelen via de apparaatinstellingen.
 
@@ -103,7 +105,7 @@ Financiële gegevens worden opgeslagen via de beveiligde sandbox-opslag van iOS 
 
 ## 9. Financieel advies disclaimer
 
-Welvio is een persoonlijk financieel hulpmiddel. **De app biedt geen financieel advies.** Neem geen financiële beslissingen uitsluitend op basis van de berekeningen en inzichten in deze app. Raadpleeg bij twijfel een gecertificeerd financieel adviseur.
+Welvio is een persoonlijk financieel hulpmiddel. **De app biedt geen financieel advies.** De berekeningen en inzichten in de app zijn statistische berekeningen op basis van uitsluitend de gegevens die u zelf invoert. Neem geen financiële beslissingen uitsluitend op basis van de app. Raadpleeg bij twijfel een gecertificeerd financieel adviseur.
 
 ---
 
